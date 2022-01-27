@@ -2,8 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
+ഞാൻ സിനിമ കമ്പനി[DB] എന്ന മൂവി ഗ്രുപ്പിന് വേണ്ടി ഉണ്ടാക്കപ്പെട്ട ബോട്ട് ആണ് :)
 
 See <i>/help</i> for commands and more details.</b>
 """
